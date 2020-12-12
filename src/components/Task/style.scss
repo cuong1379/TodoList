@@ -1,6 +1,6 @@
 .Task {
     width: 100%;
-    background-color: #00ffbf;
+    background-color: #4ad212;
     box-shadow: 0 3px 7px 0 rgba(110, 142, 247, 0.13);
     border: 1px solid #E1E2E8;
     border-radius: 3px;
@@ -69,9 +69,11 @@
         margin: 0 5px;
         cursor: pointer;
         &:first-child {
+            font-size: 20px;
             color: #5680f9;
         }
         &:nth-child(2) {
+            font-size: 20px;
             color: #FF2F2F;
         }
     }
